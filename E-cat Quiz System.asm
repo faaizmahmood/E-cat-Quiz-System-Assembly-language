@@ -1,4 +1,4 @@
-                          include emu8086.inc
+include emu8086.inc
 org 100h
 
 .data ;---------------------------------------------------------------data part
